@@ -1,0 +1,8 @@
+scikit-learn==1.4.2
+sklearn-features==0.0.2
+imbalanced-learn
+matplotlib
+seaborn
+joblib
+dvc
+dvc-gdrive==3.0.1
